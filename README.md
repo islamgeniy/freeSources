@@ -27,6 +27,10 @@ This repository curates high-quality, free resources to learn Python, Data Scien
   https://campus.epam.com/en/training/4959  
   Free self-paced Python course by EPAM.
 
+- **SoloLearn - Python Intermediate**
+  https://www.sololearn.com/en/learn/courses/python-intermediate/
+  Free a little advanced Python course by SoloLearn
+
 ## 2. Data Science Courses
 
 **Core Libraries:** NumPy, pandas, Matplotlib
